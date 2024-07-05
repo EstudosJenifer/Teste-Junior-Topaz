@@ -1,0 +1,14 @@
+Nome: Jenifer
+Perfil: https://github.com/EstudosJenifer
+Número de repositórios publicos: 7
+Número de seguidores: 1
+Número de usuários seguidos: 1
+
+Repositórios:
+desafio-felipao: https://github.com/EstudosJenifer/desafio-felipao
+desafio-logica-inicial: https://github.com/EstudosJenifer/desafio-logica-inicial
+dio-java-basico: https://github.com/EstudosJenifer/dio-java-basico
+dio-lab-open-source: https://github.com/EstudosJenifer/dio-lab-open-source
+dio-trilha-java-basico: https://github.com/EstudosJenifer/dio-trilha-java-basico
+Python-Data-Analytics: https://github.com/EstudosJenifer/Python-Data-Analytics
+sample_financial-desafio: https://github.com/EstudosJenifer/sample_financial-desafio

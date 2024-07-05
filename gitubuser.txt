@@ -1,0 +1,11 @@
+Nome: None
+Perfil: https://github.com/githubuser
+Número de repositórios publicos: 4
+Número de seguidores: 11
+Número de usuários seguidos: 0
+
+Repositórios:
+empass: https://github.com/githubuser/empass
+grit: https://github.com/githubuser/grit
+mysuperproject: https://github.com/githubuser/mysuperproject
+simplegit: https://github.com/githubuser/simplegit
